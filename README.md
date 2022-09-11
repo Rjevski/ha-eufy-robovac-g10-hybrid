@@ -17,12 +17,14 @@ The integration will dump all the Tuya "DPs" in the "attributes" of the vacuum e
 
 It also exposes some other entities such as setting the volume or resetting the consumables (filters, etc) change reminders.
 
-## TODO
+
+## To do
 
 * move "eufy_local_id_grabber" (another one of my project) into a PyPi package and install it at runtime
 * resolve device names & models instead of assuming a G10 Hybrid all the time
 * support for other models?
 * somehow inherit from LocalTuya's much more polished Tuya implementation?
+
 
 # Credits / thanks
 
