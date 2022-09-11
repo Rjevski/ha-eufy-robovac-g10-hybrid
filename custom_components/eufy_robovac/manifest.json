@@ -1,0 +1,11 @@
+{
+    "domain": "eufy_robovac",
+    "name": "Eufy Robovac G10 Hybrid (T2150)",
+    "documentation": "https://github.com/Rjevski/hass_eufy_robovac",
+    "issue_tracker": "https://github.com/Rjevski/hass_eufy_robovac/issues",
+    "codeowners": ["@Rjevski"],
+    "requirements": ["requests", "cryptography"],
+    "iot_class": "local_polling",
+    "config_flow": true,
+    "version": "0.0.1"
+}
